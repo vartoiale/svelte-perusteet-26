@@ -1,8 +1,13 @@
 # Web-ohjelmointi
 
-Repositorio sisältää kurssin materiaalin,.
+Repositorio sisältää kurssin materiaalin.
 
-## Materiaali
+## Svelte-harjoitukset
+
+Svelte:n perusteet osio löytyy [`/materiaali/harjoitukset/02-javascript/01-js-svelte`](/materiaali/harjoitukset/02-javascript/01-js-svelte/README.md)-kansiosta.
+
+
+## Muu materiaali
 
 Materiaali löytyy [`materiaali`](materiaali)-kansiosta.
 
@@ -20,7 +25,7 @@ Materiaali löytyy [`materiaali`](materiaali)-kansiosta.
 * [6 konseptit](materiaali/kaytanto/06-konseptit/README.md)
   * [6.1 gestalt-lait](materiaali/kaytanto/06-konseptit/01-gestalt.md)
 
-## Tehtävät
+## Muut tehtävät
 
 Tehtävät palautetaan [`harjoitukset`](harjoitukset)-kansioon. Harjoitukset kansio on siirretty toiseen repositorioon.
 
@@ -37,7 +42,7 @@ Tehtävät:
 * [1.3.1 responsiivinen css](materiaali/harjoitukset/01-html-ja-css/03-1-responsiiviset-tyylit.md)
 * [1.3.3 dynaaminen html](materiaali/harjoitukset/01-html-ja-css/03-3-dynaaminen-html.md)
 
-* [2.1 svelte-harjoitukset](/materiaali/harjoitukset/02-javascript/01-js-svelte.md)
+* [2.1 svelte-harjoitukset](/materiaali/harjoitukset/02-javascript/01-js-svelte/README.md)
 
 * [3.1 github-desktop](materiaali/harjoitukset/03-tyokalut/01-github-desktop.md)
 * [4.1 github-pages](materiaali/harjoitukset/04-palvelut/01-github-pages.md)

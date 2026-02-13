@@ -1,3 +1,9 @@
+# VANHA MATERIAALI
+
+Tämä sivu on osa vanhaa materiaalia.
+
+Uusi materiaali löytyy [01-js-svelte](./01-js-svelte/README.md)-kansiosta.
+
 # Harjoitus 2.1: javascript ja Svelte-sovelluskehys
 
 Lue ensin:
