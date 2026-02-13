@@ -1,0 +1,95 @@
+:root {
+    font-size: 16px;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+}
+
+.luokka1_li {
+    font-size: 10px;
+}
+
+.luokka__span {
+    display: flex;
+}
+
+.luokka1__span {
+    /* font-size: 20px; */
+    width: 5em;
+    min-width: 5em;
+    max-width: 5em;
+    background-color: blue;
+}
+
+.luokka2__span {
+    width: 5em;
+    min-width: 5em;
+    max-width: 5em;
+    background-color: red;
+}
+
+.luokka3__span {
+    /* font-size: 20px; */
+    font-size: 10px;
+    width: 5rem;
+    min-width: 5rem;
+    max-width: 5rem;
+    background-color: blue;
+}
+
+.luokka4__span {
+    width: 5rem;
+    min-width: 5rem;
+    max-width: 5rem;
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* * {
+    color: cyan;
+}
+
+span {
+    color: red;
+}
+
+#tunniste1 {
+    color: yellow;
+}
+
+#tunniste5 {
+    color: yellow !important;
+}
+
+.luokka__span {
+    color: blue;
+}
+
+.luokka5__span {
+    color: green;
+}
+
+span :hover {
+    color: blue;
+}
+
+span::after {
+    color: blue;
+    content: "|";
+} */

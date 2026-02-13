@@ -1,0 +1,11 @@
+{
+    "kenttä": "sisältö",
+    "avain": "arvo",
+    "numero": 3,
+    "teksti": "teksti",
+    "totuusarvo": true,
+    "taulukko": [1,2,3],
+    "objekti": {
+        "avain": "arvo"
+    }
+}

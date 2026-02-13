@@ -1,0 +1,78 @@
+:root {
+    --muuttuja: #fff;
+    --fontti-koko-leipäteksti: 16px;
+}
+
+body {
+    color: green;
+    font-size: 10px;
+}
+
+ul {
+    color: blue;
+}
+
+* {
+    color: red;
+}
+
+* {
+    color: blue;
+}
+
+.divi {
+    font-size: var(--fontti-koko-leipäteksti);
+}
+
+#tunniste1 {
+    color: goldenrod;
+}
+
+span {
+    color: green;
+}
+
+li.luokka2 span.luokka2__span {
+    color: magenta;
+}
+
+.luokka__span {
+    color: blue;
+    background-color: darkgray;
+}
+
+.luokka1 {
+    --fontti-koko-leipäteksti: 20px;
+}
+
+.luokka1__span {
+    --fontti-koko-leipäteksti: 30px;
+}
+
+.luokka1__span:hover {
+    --fontti-koko-leipäteksti: 40px;
+}
+
+.luokka1__span:hover::after {
+    --fontti-koko-leipäteksti: 40px;
+}
+
+.luokka__span {
+    --väri-gradian-sininen: blueviolet;
+
+    color: var(--väri-gradian-sininen);
+    font-size: var(--fontti-koko-leipäteksti);
+    /* font-size: 16px; */
+}
+
+#tunniste2 {
+    color: cyan;
+}
+
+#tunniste2 {
+    color: greenyellow !important;
+}
+
+#tunniste2 {
+    color: gray !important;
+}
