@@ -11,4 +11,4 @@ Tästä kuitenkin varsinaisessa tehtäväkuvauksessa.
 
 ## Seuraavaksi
 
-Seuraavaksi: [tehtäväsarja 2: tehtäväkuvaus](./02-01-tehtäväkuvaus.md)
+Seuraavaksi: [tehtäväsarja 2: tehtäväkuvaus](./02-01-tehtavakuvaus.md)

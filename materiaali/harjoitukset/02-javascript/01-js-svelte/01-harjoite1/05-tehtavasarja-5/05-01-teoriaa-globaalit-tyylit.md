@@ -38,4 +38,4 @@ Edellä asetamme juurielementille, ja kaikille sen lapsille tekstinväriksi must
 
 ## Seuraavaksi
 
-Seuraavaksi: [tehtäväsarja 5: tehtäväkuvaus](./05-02-tehtäväkuvaus.md)
+Seuraavaksi: [tehtäväsarja 5: tehtäväkuvaus](./05-02-tehtavakuvaus.md)

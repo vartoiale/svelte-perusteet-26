@@ -33,4 +33,4 @@ Nyt jokaisen komponentin tarinassa pitäisi näkyä valkoinen ruutu, jossa lukee
 
 ## Seuraavaksi
 
-Seuraavaksi: [Tehtäväsarja 3](./03-00-tehtäväsarja-3.md)
+Seuraavaksi: [Tehtäväsarja 3](./03-00-tehtavasarja-3.md)

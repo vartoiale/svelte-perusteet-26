@@ -27,4 +27,4 @@ Aseta siis `BASE_PATH_ASSETS`-ympäristömuuttujan arvo vastaamaan tarjoilusijai
 
 ## Seuraavaksi
 
-Seuraavaksi: [Tehtäväsarja 1: svelten lyhyet alkeet](../01%20-%20tehtäväsarja%201/README.md)
+Seuraavaksi: [Tehtäväsarja 1: svelten lyhyet alkeet](../01-tehtavasarja-1/README.md)
