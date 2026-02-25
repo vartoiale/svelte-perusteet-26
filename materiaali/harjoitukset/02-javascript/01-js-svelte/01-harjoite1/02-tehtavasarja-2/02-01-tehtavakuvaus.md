@@ -27,7 +27,7 @@ Esimerkiksi `teht07/alarivi.svelte`-tiedoston sisältö näyttäisi tämän jäl
 </div>
 ```
 
-Kun olet saanut komponenteille luotua tällaista tilapäistä tilanvaraaja sisältöä, tarkista, että komponenttien sisällöt näkyvät jokaisen komponentin tarinan kohdalla oikein storybookissa.
+Kun olet saanut komponenteille luotua tällaista tilapäistä tilanvaraajasisältöä, tarkista, että komponenttien sisällöt näkyvät jokaisen komponentin tarinan kohdalla oikein storybookissa.
 
 Nyt jokaisen komponentin tarinassa pitäisi näkyä valkoinen ruutu, jossa lukee komponentin nimi tekstinä.
 
