@@ -63,4 +63,4 @@ Näyttökuvat on otettu opettajan näkymästä, jossa on normaalista poiketen si
 
 ## Seuraavaksi
 
-Seuraavaksi: [Tehtäväsarja 3](./03-00-tehtavasarja-3.md)
+Seuraavaksi: [Tehtäväsarja 3](./03-tehtavasarja-3/README.md)
