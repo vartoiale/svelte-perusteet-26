@@ -31,6 +31,36 @@ Kun olet saanut komponenteille luotua tällaista tilapäistä tilanvaraajasisäl
 
 Nyt jokaisen komponentin tarinassa pitäisi näkyä valkoinen ruutu, jossa lukee komponentin nimi tekstinä.
 
+## Miltä komponentin pitäisi näyttää tehtäväsarjan lopussa?
+
+Kun avaat komponentit storybook:in avulla, niissä pitäisi näkyä vain komponentin nimi.
+Mahdollisesti joissain komponenteissa voi näkyä myös teksti "globaalit-tyylit".
+
+Alla on kuvat `alarivi.svelte`-komponentista, mutta myös muiden komponenttien pitäisi näyttää tässä vaiheessa samalta.
+
+Tilanne ennen tehtäväsarjaa ja komponentin nimen lisäystä:
+
+![Tilanne ennen tehtäväsarjaa ja komponentin nimen lisäystä.](/materiaali/kuvat/02-01-svelte/ts00_7_alarivi.png)
+
+Tilanne komponentin nimen lisäyksen jälkeen:
+
+![Tilanne komponentin nimen lisäyksen jälkeen.](/materiaali/kuvat/02-01-svelte/ts02_7_alarivi.png)
+
+### Huomioita ja virhetilanteita
+
+#### `globaalit-tyylit`-teksti ei näy
+
+Jos "globaalit-tyylit"-teksti ei näy, tästä ei kannata huolestua.
+
+Tähän on kaksi vaihtoehtoista syytä:
+
+1. Et ole lisännyt `globaalit-tyylit.svelte`-komponenttiin tekstiä.
+2. Osassa tarinoista tarina on konfiguroitu näyttämään komponentin lisäksi myös `globaalit-tyylit.svelte` -komponentti. Mutta näin ei välttämättä ole kaikissa. Erityisesti vanhemmissa versioissa tämä saattaa puuttua osista komponentteja.
+
+#### Sivupalkista puuttuvat kuvassa näkyvät `ts0X`-kansiot
+
+Näyttökuvat on otettu opettajan näkymästä, jossa on normaalista poiketen sivupalkissa ylimääräisiä `ts0X`-kansioita. Näitä ei kuulu näkyä normaalisti.
+
 ## Seuraavaksi
 
 Seuraavaksi: [Tehtäväsarja 3](./03-00-tehtavasarja-3.md)
