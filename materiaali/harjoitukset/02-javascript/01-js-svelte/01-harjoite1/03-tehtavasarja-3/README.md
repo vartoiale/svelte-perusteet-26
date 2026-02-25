@@ -2,7 +2,7 @@
 
 Nyt kun olemme lisänneet näkyvää, 
 mutta tilapäistä sisältöä kaikkiin komponentteihin,
-on aika liittää nämä komponentit yhteiseksi kokonaisuudeksi - komponenttipuuksi.
+on aika liittää nämä komponentit yhteiseksi kokonaisuudeksi: komponenttipuuksi.
 
 Komponenttipuu tarkoittaa yhdestä tai useammasta komponentista rakentuvaa puuta, 
 jossa komponentit linkittyvät puumaiseksi rakenteeksi.
