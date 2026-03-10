@@ -1,8 +1,4 @@
-# Tehtäväsarja 8: monimutkaisempia komponentteja
+# Tehtäväsarja 8: json-harjoitteita
 
-Kun edellisessä sarjassa teimme komponenteista oikeamman näköisiä, 
-tässä tehtäväsarjassa viimeistelemme komponentteja käyttäen javascriptiä.
+Tähän tulee myöhemmin taulukko- ja json-harjoitteita.
 
-Muokkaamme aiemmat staattiset komponentit rakentamaan sisältönsä dynaamisesti saamansa datan pohjalta.
-
-Tämä tehtäväsarja on vielä kesken.

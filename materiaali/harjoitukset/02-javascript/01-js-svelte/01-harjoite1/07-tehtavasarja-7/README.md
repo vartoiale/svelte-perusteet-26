@@ -1,4 +1,3 @@
-# Tehtäväsarja 7: json-harjoitteita
+# Tehtäväsarja 7 - komponentit oikean näköisiksi
 
-Tähän tulee myöhemmin taulukko- ja json-harjoitteita.
-
+Tässä tehtäväsarjassa lähdemme lopulta tekemään sivusta, ja komponenteista oikean näköisiä tyylittelemällä ne lähes valmiiksi.

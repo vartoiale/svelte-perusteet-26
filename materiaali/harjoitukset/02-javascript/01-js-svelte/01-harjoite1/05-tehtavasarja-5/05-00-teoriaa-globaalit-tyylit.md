@@ -1,4 +1,4 @@
-#### Teoria: globaalit tyylit sveltessä
+#### Tehtäväsarja 5: osa 0 - Teoria: globaalit tyylit sveltessä
 
 ##### Taustaa ja filosofisempaa pohdintaa komponenttien rajat rikkovista muokkausoperaatioista
 
@@ -29,13 +29,16 @@ Sen käyttö on yksinkertaisehkoa:
 ```svelte
 <style>
   :global(:root) {
-    color: black;
+    color: red;
   }
 </style>
 ```
 
-Edellä asetamme juurielementille, ja kaikille sen lapsille tekstinväriksi mustan.
+Edellä asetamme juurielementille, ja kaikille sen lapsille tekstinväriksi punaisen.
+
+_Huomaa, että jos lisäät tämän itsellesi, elementtien tekstin väriksi tulee punainen._
+_Eli jätä koodi itsellesi käyttöön vain, jos näin oikeasti haluat tehdä._
 
 ## Seuraavaksi
 
-Seuraavaksi: [tehtäväsarja 5: tehtäväkuvaus](./05-02-tehtavakuvaus.md)
+Seuraavaksi: [tehtäväsarja 5: 1](./05-01.md)

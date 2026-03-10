@@ -1,6 +1,10 @@
 # Tehtäväsarja 5: globaalit tyylit sveltessä
 
-Tässä tehtäväsarjassa lisäämme globaaleille yhteiset globaalit tyylit.
+Tässä tehtäväsarjassa lisäämme komponenteille yhteiset globaalit tyylit:
+
+* fontit,
+* css-reset:it
+* css-muuttujat
 
 ## Seuraavaksi
 
