@@ -2,8 +2,11 @@
 
 ## Tehtävien tekemisen vaiheet
 
-Koska tehtävästä 7 eteenpäin luodaan yksi isompi kokonaisuus,
-niiden tekemistä lähestytään useammassa eri vaiheessa, useammassa eri tehtäväsarjassa.
+Koska tehtäväsarjasta 2 eteenpäin luodaan yksi isompi kokonaisuus,
+on luonnollista, että tätä kokonaisuutta lähestytään pienemmissä paloissa.
+
+Tehtäväsarjoja on pyritty jaksottamaan jonkin yhtenäisen lisäyksen ympärille,
+joka suoritetaan kerralla kaikille muutoksia tarvitseville komponenteille.
 
 ## Tehtävien tekemisen vaiheet teorian tasolla
 

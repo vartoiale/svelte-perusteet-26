@@ -36,6 +36,6 @@ Siis esimerkiksi windowsin powershell-työkalu.
 Kuitenkin, siinä missä komentorivikehotteella käytetään sovelluksia,
 selaimen kehittäjätyökaluista löytyvään konsoliin kirjoitetaankin oikeaa javascriptiä.
 
-Javascriptistä voit lukea käytäntö-osuudesta tiedostosta: [`/materiaali/kaytanto/javascript-repl.md`](/materiaali/kaytanto/javascript-repl.md).
+Javascriptistä voit lukea käytäntö-osuudesta tiedostosta: [`/materiaali/kaytanto/02-javascript/javascript-repl.md`](/materiaali/kaytanto/02-javascript/javascript-repl.md).
 
 __Tämä tiedosto päivittyy myöhemmin lisäaineistolla javascriptin perusteista.__

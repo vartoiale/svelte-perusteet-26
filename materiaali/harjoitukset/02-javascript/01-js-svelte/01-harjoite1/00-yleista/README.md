@@ -1,8 +1,8 @@
-# Yleistä
+# Yleistä harjoituksista
 
 ## Osat:
 
-0. [Yleistä](./README.md)
+0. Yleistä harjoituksista
     1. [harjoituksista](./00-1-0-harjoituksista.md)
         1. [harjoitusten palautus](./00-1-1-harjoitusten-palautus.md)
         2. [harjoitusten rakenne](./00-1-2-harjoitusten-rakenne.md)

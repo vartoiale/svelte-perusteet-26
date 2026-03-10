@@ -9,4 +9,4 @@ joissa lähdemme rakentamaan sveltellä aiempaa html-kauppa -sivustoa uudelleen.
 
 ## Seuraavaksi
 
-Seuraavaksi: [Tehtäväsarja 2: svelte-kauppa -sivuston komponenttien alustus](./02-00-tehtavasarja-2.md)
+Seuraavaksi: [Tehtäväsarja 2: svelte-kauppa -sivuston komponenttien alustus](../02-tehtavasarja-2/README.md)
